@@ -1,0 +1,34 @@
+HTML Reference With Browser Support
+The table below lists all HTML elements and their attributes, along with browser support:
+
+ 					
+<a>	Yes	Yes	Yes	Yes	Yes
+download	14.0	18.0	20.0	10.1	15.0
+href	Yes	Yes	Yes	Yes	Yes
+hreflang	Yes	Yes	Yes	Yes	Yes
+media	Yes	Yes	Yes	Yes	Yes
+ping	Yes	No	Yes	No	Yes
+referrerpolicy	51.0	79.0	50.0	11.1	38.0
+rel	Yes	Yes	Yes	Yes	Yes
+target	Yes	Yes	Yes	Yes	Yes
+type	Yes	Yes	Yes	Yes	Yes
+
+ 					
+<abbr>	Yes	Yes	Yes	Yes	Yes
+
+ 					
+<address>	Yes	Yes	Yes	Yes	Yes
+
+ 					
+<area>	Yes	Yes	Yes	Yes	Yes
+alt	Yes	Yes	Yes	Yes	Yes
+coords	Yes	Yes	Yes	Yes	Yes
+download	Yes	Yes	Yes	Yes	Yes
+href	Yes	Yes	Yes	Yes	Yes
+hreflang	Yes	Yes	Yes	Yes	Yes
+media	Yes	Yes	Yes	Yes	Yes
+referrerpolicy	51.0	79.0	50.0	11.1	38.0
+rel	Yes	Yes	Yes	Yes	Yes
+shape	Yes	Yes	Yes	Yes	Yes
+target	Yes	Yes	Yes	Yes	Yes
+type	Yes	Yes	Yes	Yes	Yes
